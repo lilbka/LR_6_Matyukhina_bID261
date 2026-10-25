@@ -2,6 +2,9 @@
 ## 1. Условие задачи
 Дано число N (N<1000). Написать программу, которая проверяет является кратна ли его сумма цифр трем.
 
+## Блок-схема
+https://sun9-47.vkuserphoto.ru/s/v1/ig2/n66NJUNwDqOpQnsFPWVpiDPNdfgOiv3ei515jcrDjHjgPRTx-UMw_RksnIPL7WpV4GbqQgbGvNrhw4Ifj6hIZ8Mi.jpg?quality=95&as=32x19,48x28,72x42,108x64,160x94,240x142,360x212,480x283,540x319,640x377,720x425,1080x637,1280x755&from=bu&u=tNZsdjDR4yXvUEDbl4ToFGPkQkVqSFRtI9NkpexMEtk&cs=1280x0
+
 ## 2. Реализация программы
 #define _CRT_SECURE_NO_WARNINGS
 #define _USE_MATH_DEFINES 
